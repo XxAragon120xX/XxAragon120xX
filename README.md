@@ -82,6 +82,8 @@ I am a chemistry student and I am passionate about computational chemistry and b
 
 <h2>Github stats:</h2> 
 
+  <div align="center">
+    
 [![](https://github-readme-stats.vercel.app/api?username=XxAragon120xX&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/XxAragon120xX)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=XxAragon120xX&theme=material-palenight)](https://github.com/XxAragon120xX)
 </div>
@@ -90,6 +92,8 @@ I am a chemistry student and I am passionate about computational chemistry and b
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
+ </div>
 
 
 <hr>
