@@ -80,8 +80,30 @@ I am a chemistry student and I am passionate about computational chemistry and b
 
 <hr>
 
-### Let's Connect 🌐  
+<h2>Github stats:</h2> 
 
-<a href="https://www.linkedin.com/in/daniel-aragon-giraldo-2bb415344">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=XxAragon120xX&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/XxAragon120xX)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=XxAragon120xX&theme=material-palenight)](https://github.com/XxAragon120xX)
+</div>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
+<hr>
+
+<div align="center">
+  
+  <div id="user-content-toc">
+    <ul align="left">
+      <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
+    </ul>
+  <!--icons and links-->
+  <p align="left">
+  <a href="https://www.linkedin.com/in/daniel-aragon-giraldo-2bb415344/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="danielaragon120@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="discordapp.com/users/501622394448904204" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  </p>
+  </div>
