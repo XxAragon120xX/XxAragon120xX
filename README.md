@@ -51,7 +51,7 @@ I'm a Chemistry Student Passionate About Computational Chemistry 🚀
       <img src="assets/Gaussian.png" alt="Gaussian" height="50px"/>  
       <img src="assets/MOE.png" alt="MOE" height="50px"/>  
       <img src="assets/VMD.png" alt="VMD" height="50px"/>  
-      <img src="assets/Openbabel.png" alt="Open Babel" height="50px"/>  
+      <img src="assets/OpenBabel.png" alt="Open Babel" height="50px"/>  
       <p>PyMOL, Avogadro, Gaussian, MOE, VMD, Open Babel</p>
     </td>
   </tr>
@@ -70,10 +70,8 @@ I'm a Chemistry Student Passionate About Computational Chemistry 🚀
     <td align="center"><b>Programming Languages</b></td>
     <td align="center">
       <img src="assets/Python.png" alt="Python" height="50px"/>  
-      <img src="assets/C.png" alt="C" height="50px"/>  
-      <img src="assets/Java.png" alt="Java" height="50px"/>  
       <img src="assets/R.png" alt="R" height="50px"/>  
-      <p>Python, C, Java, R</p>
+      <p>Python, R</p>
     </td>
   </tr>
 </table>
