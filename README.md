@@ -37,6 +37,8 @@ I'm a Chemistry Student Passionate About Computational Chemistry 🚀
 
 ## Tech Stack ⚗️  
 
+## Tech Stack ⚗️  
+
 <table>
   <tr>
     <th>Computational Chemistry</th>
@@ -45,25 +47,26 @@ I'm a Chemistry Student Passionate About Computational Chemistry 🚀
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/PyMOL_logo.png" alt="PyMOL" height="50px"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Avogadro_Logo.svg" alt="Avogadro" height="50px"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Gaussian_logo.svg" alt="Gaussian" height="50px"/>  
+      <img src="assets/Pymol.png" alt="PyMOL" height="50px"/>  
+      <img src="assets/Avogadro.png" alt="Avogadro" height="50px"/>  
+      <img src="assets/Gaussian.png" alt="Gaussian" height="50px"/>  
       <p>PyMOL, Avogadro, Gaussian</p>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/R_logo.svg" alt="R" height="50px"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/BioPython_logo.svg" alt="Biopython" height="50px"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Pandas_logo.svg" alt="Pandas" height="50px"/>  
+      <img src="assets/R.png" alt="R" height="50px"/>  
+      <img src="assets/Biopython.png" alt="Biopython" height="50px"/>  
+      <img src="assets/pandas.png" alt="Pandas" height="50px"/>  
       <p>R, Biopython, Pandas</p>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50px"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="50px"/>  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Java_logo.svg" alt="Java" height="50px"/>  
+      <img src="assets/Python.png" alt="Python" height="50px"/>  
+      <img src="assets/C.png" alt="C" height="50px"/>  
+      <img src="assets/Java.png" alt="Java" height="50px"/>  
       <p>Python, C, Java</p>
     </td>
   </tr>
 </table>
+
 
 
 
