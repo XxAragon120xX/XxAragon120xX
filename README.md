@@ -35,37 +35,50 @@ I'm a Chemistry Student Passionate About Computational Chemistry 🚀
 ✔ Always excited to collaborate on computational chemistry or bioinformatics projects!<br>
 ✔ Fun fact: I often visualize molecules before bed—my dreams are molecular structures 😎<br><br><br><br>
 
-## Tech Stack ⚗️  
 
 ## Tech Stack ⚗️  
 
 <table>
   <tr>
-    <th>Computational Chemistry</th>
-    <th>Bioinformatics</th>
-    <th>Programming Languages</th>
+    <th>Category</th>
+    <th>Tools</th>
   </tr>
   <tr>
+    <td align="center"><b>Computational Chemistry</b></td>
     <td align="center">
       <img src="assets/Pymol.png" alt="PyMOL" height="50px"/>  
       <img src="assets/Avogadro.png" alt="Avogadro" height="50px"/>  
       <img src="assets/Gaussian.png" alt="Gaussian" height="50px"/>  
-      <p>PyMOL, Avogadro, Gaussian</p>
+      <img src="assets/MOE.png" alt="MOE" height="50px"/>  
+      <img src="assets/VMD.png" alt="VMD" height="50px"/>  
+      <img src="assets/Openbabel.png" alt="Open Babel" height="50px"/>  
+      <p>PyMOL, Avogadro, Gaussian, MOE, VMD, Open Babel</p>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Bioinformatics</b></td>
     <td align="center">
-      <img src="assets/R.png" alt="R" height="50px"/>  
       <img src="assets/Biopython.png" alt="Biopython" height="50px"/>  
       <img src="assets/pandas.png" alt="Pandas" height="50px"/>  
-      <p>R, Biopython, Pandas</p>
+      <img src="assets/Padel.png" alt="PaDEL" height="50px"/>  
+      <img src="assets/RDKit.png" alt="RDKit" height="50px"/>  
+      <img src="assets/Jupyter.png" alt="Jupyter Notebook" height="50px"/>  
+      <p>Biopython, Pandas, PaDEL-Descriptor, RDKit, Jupyter Notebook</p>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Programming Languages</b></td>
     <td align="center">
       <img src="assets/Python.png" alt="Python" height="50px"/>  
       <img src="assets/C.png" alt="C" height="50px"/>  
       <img src="assets/Java.png" alt="Java" height="50px"/>  
-      <p>Python, C, Java</p>
+      <img src="assets/R.png" alt="R" height="50px"/>  
+      <p>Python, C, Java, R</p>
     </td>
   </tr>
 </table>
+
+
 
 
 
