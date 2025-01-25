@@ -93,13 +93,13 @@ I am a chemistry student and I am passionate about computational chemistry and b
 
 
 <hr>
-
-<div align="center">
   
   <div id="user-content-toc">
     <ul align="left">
       <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
     </ul>
+    
+  <div align="center">
   <!--icons and links-->
   <p align="left">
   <a href="https://www.linkedin.com/in/daniel-aragon-giraldo-2bb415344/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
