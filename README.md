@@ -13,24 +13,22 @@ I am a chemistry student and I am passionate about computational chemistry and b
 ⚡ Fun fact: I do a lot of things, but I don't upload them, over time I will upload everything I do, bear with me! 🎨
 
 
+
+<hr>
+
+### Lab Vibes 🎧
+
 <div align="center">
-
-## Lab Vibes 🎧
-
+  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31x3tztmcuvckohx4wlmd2zcy6ii?si=75998825e0184da5)
 
 </div>
 
 <hr>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />  
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<div align="center">
-  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me ....
-
-</div>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me...
 
 ✔ Call me: He/His or Lab Enthusiast 😊 <br>
 ✔ I’m currently working on QSAR modeling, molecular docking, and organic synthesis optimization 🔬<br>
@@ -40,10 +38,10 @@ I am a chemistry student and I am passionate about computational chemistry and b
 ✔ Always excited to collaborate on computational chemistry or bioinformatics projects!<br>
 ✔ Fun fact: I often visualize molecules before bed—my dreams are molecular structures 😎<br><br><br><br>
 
-<div align="center">
+  <hr>
   
-
 ## Tech Stack ⚗️  
+<div align="center">
 <table>
   <tr>
     <th>Category</th>
@@ -78,6 +76,7 @@ I am a chemistry student and I am passionate about computational chemistry and b
     </td>
   </tr>
 </table>
+</div>
 
 <hr>
 
