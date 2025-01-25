@@ -82,3 +82,6 @@ I am a chemistry student and I am passionate about computational chemistry and b
 
 ### Let's Connect 🌐  
 
+<a href="https://www.linkedin.com/in/daniel-aragon-giraldo-2bb415344">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
